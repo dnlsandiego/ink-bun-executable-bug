@@ -1,0 +1,18 @@
+{
+  "name": "ink-bun-executable-bug",
+  "module": "src/index.tsx",
+  "type": "module",
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "@types/react-dom": "^18.2.7",
+    "bun-types": "latest",
+    "react-devtools-core": "^4.28.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ink": "^4.3.0",
+    "react": "^18.2.0"
+  }
+}
